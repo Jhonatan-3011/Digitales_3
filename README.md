@@ -1,1 +1,1 @@
-# Digitales_3
+# Sistemas Digitales 3, Laboratorio 1
