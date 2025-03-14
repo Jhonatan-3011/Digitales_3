@@ -1,5 +1,5 @@
-# Sistemas Digitales 3, Laboratorio 1
+## SISTEMAS DIGITALES
 
-## Integrantes
+En el presente repositorio encontraran todos los laboratorios correspondientes a la materia de sistemas digitales III presentados a continuacion:
 
-[Jhonatan Rodriguez Grisales](https://github.com/Jhonatan-3011)
+[Laboratorio 1](/LABORATORIO_1/)
