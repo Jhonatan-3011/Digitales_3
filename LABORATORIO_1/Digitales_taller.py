@@ -39,7 +39,7 @@ def agregar_registro():
     persona["Correo"] = input(textos[4])
     directorio.append(persona.copy())  # Se usa .copy() para evitar modificar el diccionario original
     print(textos[7])
-
+    
 # Función para buscar una persona por teléfono celular
 def buscar_por_telefono():
     telefono = int(input("Digite el teléfono celular a buscar: "))
